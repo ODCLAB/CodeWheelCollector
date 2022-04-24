@@ -2,7 +2,7 @@
 WINBASEAPI BOOL WINAPI RemoveDirectoryA(__in LPCSTR lpPathName);
 ```
 - 作用
-  Windows环境下，删除文件夹
+  Windows环境下，删除目录
 
 - 参数
 

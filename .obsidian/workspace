@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cpp/windows.h/RemoveDirectoryW().md",
-            "mode": "preview",
+            "file": "Cpp/windows.h/RemoveDirectoryA().md",
+            "mode": "source",
             "source": false
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "删除",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cpp/windows.h/RemoveDirectoryW().md",
+                "file": "Cpp/windows.h/RemoveDirectoryA().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +90,7 @@
   },
   "active": "785607d7cf1bec09",
   "lastOpenFiles": [
-    "Cpp/windows.h/RemoveDirectoryW().md",
-    "Cpp/windows.h/RemoveDirectoryA().md"
+    "Cpp/windows.h/RemoveDirectoryA().md",
+    "Cpp/windows.h/RemoveDirectoryW().md"
   ]
 }
