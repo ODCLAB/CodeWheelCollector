@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "0d5072e125fb5f70",
+    "type": "split",
+    "children": [
+      {
+        "id": "785607d7cf1bec09",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cpp/windows.h/RemoveDirectoryW().md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e8a00529f309806d",
+    "type": "split",
+    "children": [
+      {
+        "id": "be17815b64ef4d35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac23bd4643af389f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "51ac659f084c1e77",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8f363e3533e9e73c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6fdd370ef6daf06d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0d09ffad17c201b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cpp/windows.h/RemoveDirectoryW().md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "785607d7cf1bec09",
+  "lastOpenFiles": [
+    "Cpp/windows.h/RemoveDirectoryW().md",
+    "Cpp/windows.h/RemoveDirectoryA().md"
+  ]
+}
