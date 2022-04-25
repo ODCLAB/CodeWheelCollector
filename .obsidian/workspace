@@ -19,58 +19,73 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6193037530e04f75",
-    "type": "mobile-drawer",
+    "id": "8e52b7198dd0635f",
+    "type": "split",
     "children": [
       {
-        "id": "a81fd01bf83e052d",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "e6e8cdd08e802cdd",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "91126ff2883d62f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af5f77d0759da934",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "793e88f0354f1816",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "d1d499b933d45ad6",
-    "type": "mobile-drawer",
+    "id": "50db7f034a3eb793",
+    "type": "split",
     "children": [
       {
-        "id": "45fb7b79c768dc7e",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "README.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "62e09fb1b576b23a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d01e8c23e13a3bc1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "785607d7cf1bec09",
   "lastOpenFiles": [
