@@ -19,79 +19,65 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8e52b7198dd0635f",
-    "type": "split",
+    "id": "3c52e9cdb831d467",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "91126ff2883d62f7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "af5f77d0759da934",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "793e88f0354f1816",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "c79064fbd0627915",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "69423ec543d8e1b3",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "50db7f034a3eb793",
-    "type": "split",
+    "id": "1075eb9d2e1276a3",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "62e09fb1b576b23a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d01e8c23e13a3bc1",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "README.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
+        "id": "466da78f1139fd19",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "README.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "785607d7cf1bec09",
   "lastOpenFiles": [
     "README.md",
-    "Cpp/windows.h/RemoveDirectoryA().md",
+    "Cpp/direct.h/_mkdir().md",
     "Cpp/io.h/_access().md",
+    "Cpp/windows.h/RemoveDirectoryA().md",
     "Cpp/windows.h/RemoveDirectoryW().md"
   ]
 }
