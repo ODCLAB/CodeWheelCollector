@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cpp/windows.h/RemoveDirectoryA().md",
-            "mode": "source",
+            "file": "Cpp/io.h/_access().md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -19,77 +19,62 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e8a00529f309806d",
-    "type": "split",
+    "id": "6193037530e04f75",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "be17815b64ef4d35",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ac23bd4643af389f",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "51ac659f084c1e77",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "删除",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "a81fd01bf83e052d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "e6e8cdd08e802cdd",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ],
-        "currentTab": 1
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "8f363e3533e9e73c",
-    "type": "split",
+    "id": "d1d499b933d45ad6",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "6fdd370ef6daf06d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c0d09ffad17c201b",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Cpp/windows.h/RemoveDirectoryA().md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
+        "id": "45fb7b79c768dc7e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Cpp/io.h/_access().md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "785607d7cf1bec09",
   "lastOpenFiles": [
+    "Cpp/io.h/_access().md",
     "Cpp/windows.h/RemoveDirectoryA().md",
     "Cpp/windows.h/RemoveDirectoryW().md"
   ]

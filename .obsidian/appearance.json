@@ -1,4 +1,5 @@
 {
   "cssTheme": "Gitsidian",
-  "translucency": true
+  "translucency": true,
+  "baseFontSize": 16
 }
