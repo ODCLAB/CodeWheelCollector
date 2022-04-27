@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Cpp/sys/ipc.h/ftok().md",
             "mode": "source",
             "source": false
           }
@@ -19,65 +19,82 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3c52e9cdb831d467",
-    "type": "mobile-drawer",
+    "id": "8841af1338583477",
+    "type": "split",
     "children": [
       {
-        "id": "c79064fbd0627915",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "69423ec543d8e1b3",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "5169f71aa99c1088",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d48a0f1d1a7de048",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "dddce8acde3392cf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "ipc",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "1075eb9d2e1276a3",
-    "type": "mobile-drawer",
+    "id": "9b58910f362ad1b9",
+    "type": "split",
     "children": [
       {
-        "id": "466da78f1139fd19",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "README.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "2e03bddf205615fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ca408dd9ca30a34",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cpp/sys/ipc.h/ftok().md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "785607d7cf1bec09",
   "lastOpenFiles": [
-    "README.md",
-    "Cpp/direct.h/_mkdir().md",
+    "Cpp/sys/ipc.h/ftok().md",
     "Cpp/io.h/_access().md",
+    "Cpp/direct.h/_mkdir().md",
     "Cpp/windows.h/RemoveDirectoryA().md",
-    "Cpp/windows.h/RemoveDirectoryW().md"
+    "Cpp/windows.h/RemoveDirectoryW().md",
+    "README.md",
+    "未命名.md"
   ]
 }
