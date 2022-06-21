@@ -2,7 +2,7 @@
 int _mkdir(const char *filename)
 ```
 - 作用
-创建单级目录
+一次创建单级目录
 
 - 参数
 
@@ -16,8 +16,3 @@ int _mkdir(const char *filename)
   | ------ | ---- |
   | 0      | 成功 |
   | -1     | 失败 |
-
-
-
-- 变体
-  - [[mkdir()]]
