@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cpp/direct.h/_mkdir().md",
+            "file": "Cpp/direct.h/mkdir().md",
             "mode": "source",
             "source": false
           }
@@ -41,7 +41,7 @@
               "type": "search",
               "state": {
                 "query": "创建目录",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cpp/direct.h/_mkdir().md",
+                "file": "Cpp/direct.h/mkdir().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,10 +89,12 @@
   },
   "active": "785607d7cf1bec09",
   "lastOpenFiles": [
+    "Cpp/direct.h/mkdir().md",
     "Cpp/direct.h/_mkdir().md",
-    "README.md",
-    "Cpp/io.h/_access().md",
+    "Cpp/windows.h/RemoveDirectoryW().md",
     "Cpp/windows.h/RemoveDirectoryA().md",
-    "Cpp/windows.h/RemoveDirectoryW().md"
+    "Cpp/io.h/_access().md",
+    "README.md",
+    "Cpp/winreg.h/RegQueryInfoKey().md"
   ]
 }
